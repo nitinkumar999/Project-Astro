@@ -9,7 +9,7 @@ export default function Form() {
     e.preventDefault();
 
     const res = await fetch("/api/chat", {
-      method: "POST",
+      method: "POST"
     });
 
     const data = await res.json();
@@ -21,10 +21,13 @@ export default function Form() {
       <form onSubmit={handleSubmit}>
         <input placeholder="Enter Name" /><br /><br />
         <input type="date" /><br /><br />
+
         <button type="submit">Generate Kundli</button>
       </form>
 
-      <p style={{ marginTop: 20 }}>{result}</p>
+      <p style={{ marginTop: 20 }}>
+        {result}
+      </p>
     </div>
   );
 }
