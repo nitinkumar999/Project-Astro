@@ -15,7 +15,7 @@ export default function Form() {
     const data = await res.json();
     setResult(data.reply);
   }
-
+// form component added
   return (
     <div>
       <form onSubmit={handleSubmit}>
