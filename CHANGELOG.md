@@ -1,6 +1,10 @@
 ## v0.1
 - Initial setup
-- Kundli input UI
+- README added
 
 ## v0.2
-- Added Gemini AI chat
+- Added UI form
+- Added API route
+
+## v0.3
+- Added component structure
