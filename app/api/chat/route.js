@@ -1,5 +1,6 @@
-export async function POST(req) {
+export async function POST() {
   return Response.json({
-    reply: "Based on your kundli, you have strong planetary alignment. Avoid impulsive decisions."
+    reply:
+      "Your kundli shows strong Jupiter influence. Good time for growth and learning."
   });
 }
