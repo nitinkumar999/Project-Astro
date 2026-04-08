@@ -4,6 +4,10 @@ AI-powered astrology web app that generates kundli charts and provides personali
 
 ---
 
+🔗 Live Demo: Coming Soon
+
+---
+
 ## 🚀 Features
 
 - Kundli (birth chart) generation  
