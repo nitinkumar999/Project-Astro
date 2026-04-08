@@ -1,7 +1,7 @@
 ## Contributing
 
-1. Fork the repo
-2. Create a branch
-3. Submit PR
+1. Fork repo  
+2. Create branch  
+3. Submit PR  
 
-Please follow clean code practices.
+Keep code clean and simple.
