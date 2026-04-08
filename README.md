@@ -31,7 +31,7 @@ AI-powered astrology web app that generates kundli charts and provides personali
 ![Result](./public/result.png)
 
 ### 💬 Chat
-![Chat](./public/chat.png)
+![Chat](./public/Aichat.png)
 
 ---
 
