@@ -23,27 +23,24 @@ AI-powered astrology web app that generates kundli charts and provides personali
 ### 📝 Input Form
 ![Form](./public/form.png)
 
-### 📊 Kundli Result
+### 📊 Result
 ![Result](./public/result.png)
 
-### 💬 AI Chat
+### 💬 Chat
 ![Chat](./public/chat.png)
 
 ---
 
 ## 🧠 Tech Stack
 
-- Frontend: Next.js / React  
-- Backend: Firebase  
-- AI: Gemini API  
-- Hosting: Vercel (planned)  
+- Next.js / React  
+- Firebase  
+- Gemini API  
 
 ---
 
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/nitinkumar999/Project-Astro
-cd Project-Astro
 npm install
 npm run dev
